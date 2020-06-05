@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Design Dashboard</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="good_food_good_life">Good food, good life</string>
+    <string name="french_fries">French fries</string>
+    <string name="todo">TODO</string>
+    <string name="todox">TODO</string>
+    <string name="todoy">TODO</string>
+    <string name="noodles">Noodles</string>
+    <string name="fried_chicken">Fried Chicken</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="pizza">Pizza</string>
+    <string name="sandwich">Sandwich</string>
+</resources>
