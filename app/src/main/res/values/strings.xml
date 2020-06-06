@@ -11,4 +11,19 @@
     <string name="hamburger">Hamburger</string>
     <string name="pizza">Pizza</string>
     <string name="sandwich">Sandwich</string>
+
+    <string name="www_restaurant_com">www.restaurant.com</string>
+    <string name="image">TODO</string>
+    <string name="home">Home</string>
+    <string name="meal">Order</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_us" >Rate Us</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
 </resources>
