@@ -3,7 +3,7 @@
 
 Screenshots
 
-<img src="dashboard-design.png" height="30%" width="30%"/>   
+<img src="screenshots/dashboard.png" height="30%" width="30%"/>  	&nbsp;	&nbsp;<img src="screenshots/sidepanel.png" height="30%" width="30%"/>   
 
 <h2> Icons </h2>
 
